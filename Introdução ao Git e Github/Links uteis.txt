@@ -1,2 +1,2 @@
-[https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
+[MarkDown](https://www.markdownguide.org/getting-started/)
 .MD = MarkDown language
